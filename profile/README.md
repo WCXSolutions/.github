@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-**WCXSolutions/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# WCXSolutions
-
 Building practical products that save time, reduce waste, and automate boring work.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/WCXSolutions?label=Follow%20WCXSolutions&style=for-the-badge)](https://github.com/WCXSolutions)
